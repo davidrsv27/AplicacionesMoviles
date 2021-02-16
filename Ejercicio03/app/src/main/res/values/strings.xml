@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ejercicio03</string>
+    <string name="tvResultado"></string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="etValorA">Valor a:</string>
+    <string name="etValorB">Valor b:</string>
+    <string name="etValorC">Valor c:</string>
+    <string name="tvEcuacionCuadratica">Ecuacion cuadratica</string>
+</resources>

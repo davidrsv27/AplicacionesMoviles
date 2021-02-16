@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejercicio2</string>
+    <string name="tvResultado"></string>
+    <string name="etNumero1">Numero 1:</string>
+    <string name="etNumero2">Numero 2:</string>
+    <string name="btnSuma">+</string>
+    <string name="btnResta">-</string>
+    <string name="btnMulti">*</string>
+    <string name="btnDivi">/</string>
+    <string name="tvCalculadora">Calculadora</string>
+</resources>
